@@ -256,8 +256,6 @@
 				{"tradeable-code" : "FlareTrap", "Blast_Cap" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "SilentAlarm", "Blast_Cap" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "PracticeTrap", "Blast_Cap" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
-				{"tradeable-code" : "PromTrap", "Blast_Cap" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
-				{"tradeable-code" : "PromTrap", "Blast_Cap" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "Cal45_AmmoboxClosed", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "Cal_357_Ammobox_Closed", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "Cal_50_AE_Ammobox_Closed", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
