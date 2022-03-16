@@ -64,7 +64,7 @@
 				{"tradeable-code" : "2H_Baseball_Bat", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "2H_Baseball_Bat_With_Wire", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "2H_Baseball_Bat_With_Spikes", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
-				{"tradeable-code" : "SpawnItem 2H_Stone_Axe", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
+				{"tradeable-code" : "2H_Stone_Axe", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "2H_Improvised_Metal_Shovel", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "2H_Improvised_Shovel", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "Improvised_Metal_Spear", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
