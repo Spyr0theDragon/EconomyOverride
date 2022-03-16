@@ -1187,6 +1187,7 @@
 				{"tradeable-code" : "BP_SUV_01_A", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "BP_SUV_01_B", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "BP_SUV_01_C", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
+				{"tradeable-code" : "BP_SUV_01_E", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "BP_SUV_01_D", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "BP_Pickup_01_A", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
 				{"tradeable-code" : "BP_Pickup_01_B", "base-purchase-price" : "-1", "base-sell-price" : "-1", "delta-price" : "-1.0", "can-be-purchased" : "default"},
