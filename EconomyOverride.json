@@ -588,6 +588,13 @@
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
+		{
+          "tradeable-code": "Aeroplane_Repair_Kit",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
         {
           "tradeable-code": "Agaricus_Augustus",
           "base-purchase-price": "-1",
@@ -9675,7 +9682,7 @@
           "can-be-purchased": "default"
         },
         {
-          "tradeable-code": "Parachute",
+          "tradeable-code": "BP_Parachute",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
@@ -9891,7 +9898,21 @@
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-        {
+		{
+          "tradeable-code": "Pilot_Hat",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+		{
+          "tradeable-code": "Pilot_Jacket",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+		{
           "tradeable-code": "Pine_Cone",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -14421,6 +14442,27 @@
         },
 		{
           "tradeable-code": "BPC_Bicycle_Mountain_Bike_White",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+		{
+          "tradeable-code": "BP_Sportbike_01",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+		{
+          "tradeable-code": "BP_Kinglet_Scout",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+		{
+          "tradeable-code": "BP_Kinglet_Duster",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
