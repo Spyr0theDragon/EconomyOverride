@@ -2933,6 +2933,13 @@
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
+	{
+          "tradeable-code": "BPC_Weapon_DEagle_50Gold",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
         {
           "tradeable-code": "BP_Weapon_DT11B",
           "base-purchase-price": "-1",
