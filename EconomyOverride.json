@@ -3843,7 +3843,14 @@
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-        {
+         {
+          "tradeable-code": "BPC_Weapon_BayRifferBlock21",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+	{
           "tradeable-code": "BPC_Weapon_Deagle_357",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
@@ -14143,42 +14150,49 @@
       ],
       "A_0_BoatShop": 
 	  [
-	    {
+	  {
+          "tradeable-code": "BP_Improvised_Raft_Small",
+          "base-purchase-price": "-1",
+          "base-sell-price": "-1",
+          "delta-price": "-1.0",
+          "can-be-purchased": "default"
+        },
+	 {
           "tradeable-code": "BP_Motorboat_02",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_MotorBoat_01_A",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_MotorBoat_01_B",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_MotorBoat_01_C",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_MotorBoat_01_D",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         }
-		],
+	],
       "A_0_Mechanic": 
 	  [
 	   {
@@ -14188,287 +14202,287 @@
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Bicycle_Mountain_Bike_Blue",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Cruiser_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Cruiser_B",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Cruiser_C",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Cruiser_D",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Cruiser_E",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_A",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_B",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_C",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_D",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_E",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_F",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Dirtbike_Hellriders",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_A",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_B",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_C",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_D",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_E",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_F",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_G",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Pickup_01_HellRiders",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Quad_01_A",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Quad_01_B",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Quad_01_C",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Quad_01_D",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_SUP",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_SUV_01_A",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_SUV_01_B",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_SUV_01_C",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_SUV_01_D",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_SUV_01_E",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Tractor_01_A",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_WheelBarrow_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_WheelBarrow_02",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_Bicycle_CityBike_Red",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_Bicycle_Mountain_Bike_Green",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_Bicycle_Mountain_Bike_Red",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BPC_Bicycle_Mountain_Bike_White",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Sportbike_01",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Kinglet_Scout",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
           "delta-price": "-1.0",
           "can-be-purchased": "default"
         },
-		{
+	{
           "tradeable-code": "BP_Kinglet_Duster",
           "base-purchase-price": "-1",
           "base-sell-price": "-1",
