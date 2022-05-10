@@ -14495,7 +14495,7 @@
       "A_0_Trader": 
 	  [
 	  ],
-      "A_0_Bartender": 
+      "A_0_Saloon": 
 	  [
 	  ],
       "B_4_Armory": 
@@ -14510,7 +14510,7 @@
       "B_4_Trader": 
 	  [
 	  ],
-      "B_4_Bartender": 
+      "B_4_Saloon": 
 	  [
 	  ],
       "C_2_Armory": 
@@ -14525,7 +14525,7 @@
       "C_2_Trader": 
 	  [
 	  ],
-      "C_2_Bartender": 
+      "C_2_Saloon": 
 	  [
 	  ],
       "Z_3_Armory": 
@@ -14540,7 +14540,7 @@
       "Z_3_Trader": 
 	  [
 	  ],
-      "Z_3_Bartender": 
+      "Z_3_Saloon": 
 	  [
 	  ]
     }
