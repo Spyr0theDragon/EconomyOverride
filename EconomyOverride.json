@@ -5,7 +5,9 @@
     "prices-randomization-time-hours": "-1.0",
     "fully-restock-tradeable-hours": "2.0",
     "trader-funds-change-rate-per-hour-multiplier": "1.0",
+    "economy-logging": "1",	  
     "traders-unlimited-funds": "0",
+	 
     "limited-tradeables": {
       "limited-vehicles": [
         {
@@ -14490,9 +14492,14 @@
           "can-be-purchased": "default"
         }
 		],
-      "A_0_Trader": [
+      "A_0_Trader": 
+	  [
 	  ],
-      "B_4_Armory": [
+      "A_0_Bartender": 
+	  [
+	  ],
+      "B_4_Armory": 
+	  [
 	  ],
       "B_4_BoatShop": 
 	  [
@@ -14501,6 +14508,9 @@
 	  [
 	  ],
       "B_4_Trader": 
+	  [
+	  ],
+      "B_4_Bartender": 
 	  [
 	  ],
       "C_2_Armory": 
@@ -14515,6 +14525,9 @@
       "C_2_Trader": 
 	  [
 	  ],
+      "C_2_Bartender": 
+	  [
+	  ],
       "Z_3_Armory": 
 	  [
 	  ],
@@ -14525,6 +14538,9 @@
 	  [
 	  ],
       "Z_3_Trader": 
+	  [
+	  ],
+      "Z_3_Bartender": 
 	  [
 	  ]
     }
