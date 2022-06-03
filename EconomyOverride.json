@@ -14498,6 +14498,9 @@
       "A_0_Saloon": 
 	  [
 	  ],
+      "A_0_Hospital": 
+	  [
+	  ],
       "B_4_Armory": 
 	  [
 	  ],
@@ -14511,6 +14514,9 @@
 	  [
 	  ],
       "B_4_Saloon": 
+	  [
+	  ],
+      "B_4_Hospital": 
 	  [
 	  ],
       "C_2_Armory": 
@@ -14528,6 +14534,9 @@
       "C_2_Saloon": 
 	  [
 	  ],
+      "C_2_Hospital": 
+	  [
+	  ],
       "Z_3_Armory": 
 	  [
 	  ],
@@ -14541,6 +14550,9 @@
 	  [
 	  ],
       "Z_3_Saloon": 
+	  [
+	  ],
+      "Z_3_Hospital": 
 	  [
 	  ]
     }
