@@ -11,7 +11,7 @@
     "prices-subject-to-player-count": "1",
     "limited-tradeables": {
       "limited-vehicles": [
-        {"vehicle-group": "VehicleSpawnGroup.PickupTruck","vehicle-group-max-amount": "11"},
+        {"vehicle-group": "VehicleSpawnGroup.PickupTruck","vehicle-group-max-amount": "10"},
         {"vehicle-group": "VehicleSpawnGroup.Quad","vehicle-group-max-amount": "8"},
         {"vehicle-group": "VehicleSpawnGroup.SUV","vehicle-group-max-amount": "10"},
         {"vehicle-group": "VehicleSpawnGroup.Tractor","vehicle-group-max-amount": "8"},
